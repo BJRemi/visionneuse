@@ -1,0 +1,186 @@
+[
+  {
+    "id": "titane_or",
+    "nom": "Titane anodisé or",
+    "nom_piece": "Barre",
+    "couleur": "#d5ad58",
+    "mots": [
+      "barre"
+    ],
+    "metal": 0.86,
+    "brillance": 0.91,
+    "vernis": 0.13,
+    "satin": 0.0,
+    "irisation": 0.45
+  },
+  {
+    "id": "dentine",
+    "nom": "Dentine",
+    "nom_piece": "Hybride",
+    "couleur": "#ead2a8",
+    "mots": [
+      "hybride"
+    ],
+    "metal": 0.0,
+    "brillance": 0.62,
+    "vernis": 0.55,
+    "satin": 0.5,
+    "irisation": 0.0
+  },
+  {
+    "id": "titane_chrome",
+    "nom": "Titane chrome",
+    "nom_piece": "Titane chrome",
+    "couleur": "#dfe2e6",
+    "mots": [
+      "titane",
+      "chrome",
+      "pilier",
+      "implant",
+      "analogue",
+      "tibase",
+      "ti-base",
+      "vis"
+    ],
+    "metal": 1.0,
+    "brillance": 0.88,
+    "vernis": 0.5,
+    "satin": 0.0,
+    "irisation": 0.0
+  },
+  {
+    "id": "gencive",
+    "nom": "Gencive",
+    "nom_piece": "Gencive",
+    "couleur": "#d9808b",
+    "mots": [
+      "gencive",
+      "gingiva",
+      "gum"
+    ],
+    "metal": 0.0,
+    "brillance": 0.58,
+    "vernis": 0.45,
+    "satin": 0.4,
+    "irisation": 0.0
+  },
+  {
+    "id": "platre",
+    "nom": "Plâtre",
+    "nom_piece": "Modèle",
+    "couleur": "#ece4d3",
+    "mots": [
+      "platre",
+      "modele",
+      "model",
+      "antagoniste"
+    ],
+    "metal": 0.0,
+    "brillance": 0.15,
+    "vernis": 0.0,
+    "satin": 0.25,
+    "irisation": 0.0
+  },
+  {
+    "id": "zircone",
+    "nom": "Zircone",
+    "nom_piece": "",
+    "couleur": "#f3eee4",
+    "mots": [
+      "zircone",
+      "couronne"
+    ],
+    "metal": 0.0,
+    "brillance": 0.68,
+    "vernis": 0.6,
+    "satin": 0.3,
+    "irisation": 0.0
+  },
+  {
+    "id": "vitroceramique",
+    "nom": "Vitrocéramique",
+    "nom_piece": "",
+    "couleur": "#efe5d2",
+    "mots": [
+      "emax",
+      "vitro"
+    ],
+    "metal": 0.0,
+    "brillance": 0.82,
+    "vernis": 1.0,
+    "satin": 0.0,
+    "irisation": 0.0
+  },
+  {
+    "id": "titane",
+    "nom": "Titane brut",
+    "nom_piece": "",
+    "couleur": "#b4b6b9",
+    "mots": [],
+    "metal": 1.0,
+    "brillance": 0.68,
+    "vernis": 0.0,
+    "satin": 0.0,
+    "irisation": 0.0
+  },
+  {
+    "id": "cobalt_chrome",
+    "nom": "Cobalt-chrome",
+    "nom_piece": "",
+    "couleur": "#cfd3d8",
+    "mots": [
+      "cobalt",
+      "stellite"
+    ],
+    "metal": 1.0,
+    "brillance": 0.82,
+    "vernis": 0.0,
+    "satin": 0.0,
+    "irisation": 0.0
+  },
+  {
+    "id": "resine",
+    "nom": "Résine",
+    "nom_piece": "",
+    "couleur": "#a9cbe8",
+    "mots": [
+      "resine",
+      "guide"
+    ],
+    "metal": 0.0,
+    "brillance": 0.65,
+    "vernis": 0.5,
+    "satin": 0.0,
+    "irisation": 0.0
+  },
+  {
+    "id": "cire",
+    "nom": "Cire",
+    "nom_piece": "",
+    "couleur": "#3f6e4b",
+    "mots": [
+      "cire",
+      "wax"
+    ],
+    "metal": 0.27,
+    "brillance": 0.0,
+    "vernis": 0.05,
+    "satin": 0.0,
+    "irisation": 0.0
+  },
+  {
+    "id": "pmma",
+    "nom": "PMMA provisoire",
+    "nom_piece": "",
+    "couleur": "#eadfcf",
+    "mots": [
+      "pmma",
+      "provisoire"
+    ],
+    "metal": 0.0,
+    "brillance": 0.72,
+    "vernis": 0.7,
+    "satin": 0.0,
+    "irisation": 0.0
+  }
+]
