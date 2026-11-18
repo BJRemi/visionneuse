@@ -3,16 +3,16 @@
     "id": "titane_or",
     "nom": "Titane anodisé or",
     "nom_piece": "Barre",
-    "couleur": "#ddb55f",
+    "couleur": "#ddc23c",
     "mots": [
       "bar",
       "barre"
     ],
-    "metal": 1.0,
-    "brillance": 0.88,
-    "vernis": 0.85,
+    "metal": 0.88,
+    "brillance": 0.77,
+    "vernis": 0.0,
     "satin": 0.0,
-    "irisation": 0.66
+    "irisation": 0.64
   },
   {
     "id": "dentine",
