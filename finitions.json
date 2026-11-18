@@ -18,14 +18,14 @@
     "id": "dentine",
     "nom": "Dentine",
     "nom_piece": "Hybride",
-    "couleur": "#ead2a8",
+    "couleur": "#b6a17c",
     "mots": [
       "hybride"
     ],
     "metal": 0.0,
-    "brillance": 0.62,
-    "vernis": 0.55,
-    "satin": 0.5,
+    "brillance": 0.42,
+    "vernis": 0.48,
+    "satin": 0.88,
     "irisation": 0.0
   },
   {
