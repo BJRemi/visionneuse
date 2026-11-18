@@ -3,26 +3,26 @@
     "id": "titane_or",
     "nom": "Titane anodisé or",
     "nom_piece": "Barre",
-    "couleur": "#d5ad58",
+    "couleur": "#ddb55f",
     "mots": [
       "bar",
       "barre"
     ],
-    "metal": 0.86,
-    "brillance": 0.91,
-    "vernis": 0.13,
+    "metal": 1.0,
+    "brillance": 0.88,
+    "vernis": 0.85,
     "satin": 0.0,
-    "irisation": 0.45
+    "irisation": 0.66
   },
   {
     "id": "dentine",
     "nom": "Dentine",
     "nom_piece": "Hybride",
-    "couleur": "#b6a17c",
+    "couleur": "#a08554",
     "mots": [
       "hybride"
     ],
-    "metal": 0.0,
+    "metal": 0.17,
     "brillance": 0.42,
     "vernis": 0.48,
     "satin": 0.88,
