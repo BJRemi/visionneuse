@@ -1,7 +1,7 @@
 [
   {
     "id": "titane_or",
-    "nom": "Titane anodisé",
+    "nom": "Titane anodisé or",
     "nom_piece": "Barre",
     "couleur": "#ddc23c",
     "mots": [
@@ -114,15 +114,15 @@
   },
   {
     "id": "titane",
-    "nom": "Titane brut",
+    "nom": "Titane anodisé rose",
     "nom_piece": "",
-    "couleur": "#b4b6b9",
+    "couleur": "#a03b80",
     "mots": [],
-    "metal": 1.0,
-    "brillance": 0.68,
-    "vernis": 0.0,
+    "metal": 0.88,
+    "brillance": 0.71,
+    "vernis": 0.23,
     "satin": 0.0,
-    "irisation": 0.0
+    "irisation": 0.35
   },
   {
     "id": "cobalt_chrome",
